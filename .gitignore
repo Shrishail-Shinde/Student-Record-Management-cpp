@@ -1,0 +1,4 @@
+*.exe
+*.o
+students.txt
+.vscode/
